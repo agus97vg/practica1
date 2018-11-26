@@ -20,7 +20,7 @@ public class InformacionProperties {
 
 	private static final String nombreProperties = "InfoAplicacion";
 
-
+	//se ha modificado esto para probar el git
 
 	public static String getStrServer() {
 		
