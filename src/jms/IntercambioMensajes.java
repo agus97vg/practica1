@@ -24,7 +24,7 @@ public class IntercambioMensajes {
 	
 	
 	public ArrayList <Message> recibirMensajes(String Usuario){
-		
+		//comentario para git
 		InitialContext contextoInicial = null;
 		QueueConnectionFactory factory = null;
 		Queue queue = null;
